@@ -70,7 +70,7 @@
  * @version 1.0
  */
 
-namespace lesha724\behaviors\;
+namespace lesha724\behaviors;
 
 use yii\base\Behavior;
 
